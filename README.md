@@ -1,16 +1,26 @@
-# 📊 Customer Churn Analysis | Turning Data into Business Insights
+# 📊 Customer Churn Analysis
+### Turning Customer Data into Actionable Business Insights
 
-**An exploratory data analytics project to understand customer behavior, uncover churn patterns, and identify opportunities to improve customer retention.**
+<p align="center">
+  <strong>Exploratory Data Analysis | Customer Retention | Business Intelligence</strong>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
+</p>
 
-## 🔍 Why This Project?
+## 🎯 Project Overview
 
-Acquiring new customers is important, but understanding why existing customers leave is equally valuable.
+Customer churn directly affects recurring revenue and long-term business growth. This project uses **SQL, Python, and exploratory data analysis** to examine customer behavior, identify segments with higher observed churn, and translate analytical patterns into practical retention recommendations.
 
-In this project, I explored customer, subscription, and support data using **SQL and Python** to investigate churn patterns, compare customer segments, and translate analytical findings into actionable business recommendations.
+Rather than focusing only on visualizations, the project connects data exploration with real business questions around subscription plans, customer tenure, geographical patterns, and support escalations.
 
-The focus was not just on creating charts, but on understanding what the data can tell us and how those insights can support better business decisions.
+**Project focus:** Understand what the data reveals, identify patterns worth investigating, and support more informed customer-retention decisions.
+
 
 ## 🧰 Tools & Technologies
 
@@ -65,6 +75,35 @@ These are analysis-driven opportunities to investigate, rather than assumptions 
 - Exploratory data analysis and visualization
 - Comparing customer segments and interpreting trends
 - Communicating analytical findings through business-oriented recommendations
+
+## 📊 Visual Insights
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Monthly Churn Trend</strong><br><br>
+      <img src="./monthly_churn_trend.png" alt="Monthly Churn Trend" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <strong>Churn Rate by Plan Type</strong><br><br>
+      <img src="./churn_by_plan.png" alt="Churn Rate by Plan Type" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Churn Rate by State</strong><br><br>
+      <img src="./churn_by_state.png" alt="Churn Rate by State" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <strong>Correlation Heatmap</strong><br><br>
+      <img src="./correlation_heatmap.png" alt="Correlation Heatmap" width="100%">
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ## 🚀 Run It Locally
 
