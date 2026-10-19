@@ -130,7 +130,7 @@ Place `customer_churn.db` in the location expected by the notebook. Update the d
 jupyter notebook
 ```
 
-Open `Customer_Churn_Analysis.ipynb` and run the cells in sequence.
+Open the **[Customer Churn Analysis Notebook](./Customer_Churn_Analysis.ipynb)** and run the cells in sequence.
 
 ## 🔭 What I Would Explore Next
 
